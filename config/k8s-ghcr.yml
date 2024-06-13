@@ -17,7 +17,7 @@ storage:
       interval: 24h
       dryrun: false
     readonly:
-      enabled: true
+      enabled: false
 http:
   addr: :5000
   headers:
