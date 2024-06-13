@@ -13,7 +13,7 @@ storage:
   maintenance:
     uploadpurging:
       enabled: true
-      age: 168h
+      age: 48h
       interval: 24h
       dryrun: false
     readonly:
