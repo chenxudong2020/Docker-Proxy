@@ -56,7 +56,7 @@ mkdir -p ${PROXY_DIR}
 cd "${PROXY_DIR}"
 
 # 项目RAW地址
-GITRAW="https://raw.githubusercontent.com/dqzboy/Docker-Proxy/main"
+GITRAW="https://raw.githubusercontent.com/chenxudong2020/Docker-Proxy/main"
 
 # 部署的容器名称和镜像版本
 CONTAINER_NAME_LIST=("reg-docker-hub" "reg-ghcr" "reg-k8s-gcr")
