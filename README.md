@@ -32,7 +32,7 @@ yum -y install wget curl
 # ubuntu
 apt -y install wget curl
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/dqzboy/Docker-Proxy/main/install/DockerProxy_Install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/chenxudong2020/Docker-Proxy/main/install/DockerProxy_Install.sh)"
 ```
 
 #### 使用 Render 部署
